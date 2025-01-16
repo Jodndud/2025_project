@@ -1,1 +1,1 @@
-gpt_api_kep = "adf6a516asdf81"
+password : "123123213"
