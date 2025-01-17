@@ -1,0 +1,18 @@
+- 클라이언트(html, css, js)
+
+(request / response)
+
+- 서버
+
+(query / response)
+
+- DB
+
+
+데이터 파싱
+
+
+PYTHON
+
+!pip (python install package)
+%pip
